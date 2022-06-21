@@ -1,2 +1,5 @@
-\functions\*
-\Dashboards\*.json
+# Files that are unique to each execution
+/functions*
+/ImportsExports*
+# Ignore windows default files
+*desktop.ini
